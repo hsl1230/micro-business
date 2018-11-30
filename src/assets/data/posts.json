@@ -1,0 +1,152 @@
+[{
+    "id": "1",
+    "type": "business",
+    "name": "Fitness Canada Physio & Massage Centre",
+    "tags": ["fitness", "physio", "massage"],
+    "logo": "",
+    "descriptions": [{
+      "content": "About",
+      "pictures": [],
+      "descriptions": [{
+          "content": "Fitness Canada Physio and Massage Centre is a proudly Canadian health care company, owned by a Physiotherapist. We provide diversified Therapy services across the City of Calgary. At our clinics our Physiotherapists, Massage Therapists, Yoga therapists, Acupuncturists and Therapy Assistants work in a team to help our patients understand their conditions and work along with the team to realize their therapeutic goals."
+        },
+        {
+          "content": "Our unique specialty is our Holistic approach-by which we mean collaboration of Modern advanced Therapeutic Modalities with the Ancient Wisdom like Yoga and Ayurveda ( Indian -Herbal Therapy) to assist our patients achieve Long lasting Goals at a shortest period of time."
+        },
+        {
+          "content": "Our Therapists have extensive Training and experience in their field of expertise. With all those expertise, our therapists are enabled to treat a variety of conditions like: Musculo Skeletal problems, Sports Injuries, Motor Vehicle Accidents, TMJ-Issues, Vestibular Rehabilitation, Work related Injuries(WCB),Chronic Pain syndromes."
+        },
+        {
+          "content": "As a Valuable customer, you can always discuss to our therapists and make a well informed decision about your health goals. To us : You-the Patient is our Lead Team member."
+        },
+        {
+          "content": "We currently have three locations across NW, SW and South Calgary. As a fastly growing company we are looking forward to expand our services to other part of the City to provide the same excellent care to people from across the city."
+        },
+        {
+          "content": "We appreciate your interest in Fitness Canada Physio and Massage Centre, and invite you to take the leap to collaborate with us to take your Health and Fitness to the next level."
+        }
+      ]
+    }],
+    "contacts": [{
+      "phoneNumber": "587-333-3566",
+      "email": "info@fitcanphysio.com",
+      "tel": "587-333-3566",
+      "addresses": [{
+          "name": "Westbrook Mall",
+          "street": "1200- 37 Street SW",
+          "city": "Calgary",
+          "province": "AB",
+          "country": "Canada",
+          "postCode": "T3C 1S2"
+        },
+        {
+          "street": "4115 4th Street NW",
+          "city": "Calgary",
+          "province": "AB",
+          "country": "Canada",
+          "postCode": "T2K 1A3"
+
+        },
+        {
+          "name": "Woodpark",
+          "street": "Unit 12-523 Woodpark Blvd SW",
+          "city": "Calgary",
+          "province": "AB",
+          "country": "Canada",
+          "postCode": "T2W 4J3"
+
+        }
+      ]
+    }],
+    "owner": "userId"
+  },
+  {
+    "id": "2",
+    "businessId": "1",
+    "type": "service",
+    "name": "Physiotherapy",
+    "descriptions": [{
+        "content": "About",
+        "pictures": [],
+        "descriptions": [{
+          "content": "Physiotherapy uses a range of non-invasive treatment techniques and has applications in almost all disciplines of modern medicine."
+        }]
+      },
+      {
+        "content": "Mainly For",
+        "pictures": [],
+        "descriptions": [{
+            "content": "PAIN RELIEF AND REHABILITATION"
+          },
+          {
+            "content": "SPORT INJURIES"
+          },
+          {
+            "content": "SPINAL MANIPULATION THERAPHY"
+          },
+          {
+            "content": "TMJ - JAW PROBLEMS"
+          },
+          {
+            "content": "IMS - DRY NEEDLING"
+          },
+          {
+            "content": "VESTIBULAR REHAB/DIZZINESS /HEADACHES"
+          }
+        ]
+      },
+      {
+        "content": "Treatment",
+        "descriptions": [{
+            "content": "ORTHOPEDICS"
+          },
+          {
+            "content": "GENERAL SURGERY"
+          },
+          {
+            "content": "NEUROLOGY"
+          },
+          {
+            "content": "PLASTIC AND COSMETIC SURGERY"
+          },
+          {
+            "content": "CARDIO THORACIC"
+          }
+        ]
+      }
+    ],
+    "contacts": [{
+      "phoneNumber": "587-333-3566",
+      "email": "info@fitcanphysio.com",
+      "tel": "587-333-3566",
+      "addresses": [{
+          "name": "Westbrook Mall",
+          "street": "1200- 37 Street SW",
+          "city": "Calgary",
+          "province": "AB",
+          "country": "Canada",
+          "postCode": "T3C 1S2"
+        },
+        {
+          "name": "Woodpark",
+          "street": "Unit 12-523 Woodpark Blvd SW",
+          "city": "Calgary",
+          "province": "AB",
+          "country": "Canada",
+          "postCode": "T2W 4J3"
+
+        }
+      ]
+    }],
+    "owner": "userId"
+  },
+  {
+    "id": "3",
+    "type": "event",
+    "name": "Paysafe Kid's Party",
+    "descriptions": [{}],
+    "contacts": [{}],
+    "address": {},
+    "owner": "userId"
+  }
+]
